@@ -1,1 +1,2 @@
 # odin-recipes
+This is a project I'm doing via The Odin Project where a main page links to three different recipe pages. This is to practice HTML boilerplate language, headings, paragraphs, links, images, and lists, as well as to practice using Git.
